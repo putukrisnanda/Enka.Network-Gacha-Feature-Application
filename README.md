@@ -1,5 +1,14 @@
 Enka Network adalah aplikasi antarmuka pengguna berbasis grafis (GUI) yang didedikasikan untuk mengelola dengan efisien daftar karakter yang diinginkan yang berasal dari game populer Genshin Impact. Aplikasi ini memberdayakan pengguna untuk mengekspresikan preferensi mereka dengan menambahkan karakter dari game-game tersebut dan melakukan “gacha” yang dimana pengguna dapat mendapatkan karakter secara acak.
 
+Aplikasi ini dikerjakan oleh : 
+
+Muhhamad Afif Kamali 
+
+Fatecha Risqi Putra Prasetyo
+
+Putu Krisnanda Adyatma Kartika 
+
+
 Dalam pengembangan Aplikasi GUI Enka Network, kami mengambil referensi dari beberapa sumber untuk memperoleh pemahaman mendalam tentang JavaFX, kerangka pengembangan antarmuka pengguna berbasis Java yang digunakan dalam pembuatan aplikasi kami. Berikut adalah sumber referensi utama yang membantu kami selama proses pengembangan:
 
 JavaTpoint - JavaFX Tutorial
