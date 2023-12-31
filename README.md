@@ -41,18 +41,23 @@ Untuk Layout aplikasi itu sendiri, yaitu ketika pengguna membuka aplikasi, siste
 Dalam Pembangunan aplikasi kami melakukan konektivitas database menggunakan MySQL phpMyAdmin ke dalam JavaFX. Hal ini dilakukan agar sistem dapat menyimpan data character yang pengguna dapatkan ketika dia sudah melakukan gacha. Dan juga digunakan untuk menyimpan data character yang terdapat didalam sistem.
 
 1.	Landing PageHome Aplikasi
+   
 ![image](https://github.com/putukrisnanda/Enka.Network-Gacha-Feature-Application/assets/114864739/e071b48e-f62d-4b2b-86b1-8fbd0f6fafd0)
 
 Pada bagian landing page, sistem akan menampilkan logo aplikasi dan untuk meneruskan ke halam main menu, pengguna perlu untuk menekan tombol enter untuk memasuki aplikasi 
 
 2.	Menu Home Aplikasi
+   
 ![image](https://github.com/putukrisnanda/Enka.Network-Gacha-Feature-Application/assets/114864739/dcc74b92-9e5d-45c0-9258-d3fb8af9739f)
+
+
 
 Pada bagian home aplikasi terdapat layout judul aplikasi dibagian atas, tombol menu character lore dibagian pertama, tombol menu gacha dibagian tengah, dan tombol menu Owned Character dibagian bawah.
 
 Terdapat tombol toggle pada samping kanan tas menu, tombol tersebut berguna untuk menonaktifkan theme musik pada menu apabila pengguna ingin mematikannya.
 
 3.	Menu Character Lore
+
 ![image](https://github.com/putukrisnanda/Enka.Network-Gacha-Feature-Application/assets/114864739/e05a433c-07c6-4031-8156-a637901e7b54)
 ![image](https://github.com/putukrisnanda/Enka.Network-Gacha-Feature-Application/assets/114864739/54dfb225-c796-4b67-ae87-dcf3ee37b993)
 
@@ -61,6 +66,7 @@ Dalam menu ini, pengguna dapat melihat character apa saja yang dapat mereka dapa
 
 4.	Menu Gacha
 Pada bagian menu gacha, terdapat tombol gacha  yang ketika akan ditekan pengguna, sistem akan menampilkan character yang pengguna dapatkan secara acak dan setiap character memiliki value yang berbeda.. Lalu sistem akan menyimpannya kedalam database.
+
 ![image](https://github.com/putukrisnanda/Enka.Network-Gacha-Feature-Application/assets/114864739/a0979bea-23db-4db6-9a06-b910b7bd61b0)
 
 ![image](https://github.com/putukrisnanda/Enka.Network-Gacha-Feature-Application/assets/114864739/f678b9f1-aa7f-49ec-8baa-e424c798dbcf)
@@ -72,6 +78,7 @@ Pengguna juga dapat melihat berapa banyak roll mereka miliki dan dapat melihat b
 
 5.	Menu Owned Character
 Pada bagian menu Owned Character, terdapat table yang menunjukan character yang telah didapatkan oleh pengguna. Pengguna juga dapat menjual character tersebut jika ingin sesuai dengan value karakter yang mereka dapatkan.
+
 ![image](https://github.com/putukrisnanda/Enka.Network-Gacha-Feature-Application/assets/114864739/d84f00b6-b9a5-4995-a672-8a7e113f0eba)
 
 ![image](https://github.com/putukrisnanda/Enka.Network-Gacha-Feature-Application/assets/114864739/4d37adbe-5c61-4ba9-ad71-422643bf712a)
@@ -79,6 +86,7 @@ Pada bagian menu Owned Character, terdapat table yang menunjukan character yang 
 6.	Menu Shop
 Penjual yang telah menjual karakter mereka akan mendapatkan diamond value, diamond value yang digunakan pengguna dapat digunakan untuk membeli perk yang ada dalam aplikasi. Perk yang ada dalam aplikasi dapat memberikan keutungan kepada pengguna dimana pengguna dapat menaikan maximum rolls yang dapat dimiliki oleh pengguna.
 Lalu apabila pengguna ingin membeli perk tersebut, sistem akan menampilkan pop up yang berisikan harga perk yang diambil dan pengguna harus melakukan konfirmasi untuk mengkonfirmasi penggunaan diamond.
+
 ![image](https://github.com/putukrisnanda/Enka.Network-Gacha-Feature-Application/assets/114864739/184137fd-f3e9-4e85-99fa-c34acf336d15)
 ![image](https://github.com/putukrisnanda/Enka.Network-Gacha-Feature-Application/assets/114864739/3d1c006c-949c-4e96-b61d-9b9a5e7d1255)
 
